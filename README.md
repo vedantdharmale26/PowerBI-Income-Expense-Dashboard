@@ -26,7 +26,7 @@ It allows users to quickly understand financial performance using clean and inte
 
 📈 Dashboard Preview
 
-![Income and Expense Dashboard](dashboard.png)
+![Income and Expense Dashboard](dashboard.jpg)
 
 
 📊 Key Visuals Included
